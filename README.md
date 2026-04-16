@@ -45,9 +45,11 @@ Ascending/Descending Order: Sorting data frames by specific columns (like Price 
 
 Bash
 git clone https://github.com/your-username/data-wrangling-pandas.git
+
 2.Install dependencies:
 
 Bash
 pip install pandas numpy
+
 3.Execution:
 Run the notebook cells to see the transformation from a raw dictionary/DataFrame to a structured, binned, and formatted dataset.
